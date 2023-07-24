@@ -14,6 +14,7 @@ public class Maman15Q2Application extends javafx.application.Application {
         stage.setTitle("Maman 15 Question 2");
         stage.setScene(scene);
         stage.show();
+
     }
     private static String [] _args;
 
